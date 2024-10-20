@@ -1,6 +1,6 @@
 +++
 title = 'Living in Paris Area'
-draft = false
+draft = true
 description = "Guide to live in Paris area "
 tags = [
     "france",
@@ -18,3 +18,7 @@ Here I put the best places where I recommend to live in Paris ares and some usef
 ## Universities 
 
 ## Jobs
+
+> Important!
+> 
+> Try to 

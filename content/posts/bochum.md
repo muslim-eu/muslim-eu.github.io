@@ -9,19 +9,9 @@ tags = [
 +++
 
 
-Feel free to switch between the light and dark themes to see the rendering differences.
+Description 
 
 <!--more-->
 
 ## Mosques 
 
-- Ditib
-
-[![IMAGE ALT TEXT HERE]()](https://www.youtube.com)
-
-## Food 
-- In Germany, I did't find a comprehensive app like Halal ou pas but there are some apps that can help like : TagHalal food
-- To check for healthy food I use the woderful app Yuka 
-
-
-## Ramadan
