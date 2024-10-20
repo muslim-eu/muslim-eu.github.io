@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Germany on Muslim-eu</title>
+    <link>/tags/germany/</link>
+    <description>Muslim-eu (Germany)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+
+    
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    
+    <atom:link href="/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Living in Bochum</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>&lt;p&gt;Feel free to switch between the light and dark themes to see the rendering differences.&lt;/p&gt;
+&lt;h2 id=&#34;mosques&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#mosques&#34;&gt;
+        #
+    &lt;/a&gt;
+    Mosques
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ditib&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com&#34;&gt;&lt;img src=&#34;&#34; alt=&#34;IMAGE ALT TEXT HERE&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ramadan&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#ramadan&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Ramadan
+&lt;/div&gt;
+&lt;/h3&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
