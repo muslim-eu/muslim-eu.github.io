@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Muslim-eu'
 theme = 'anubis2'
-
+enableEmoji = true
 [markup.goldmark.renderer]
 unsafe = true # Enable unsafe mode to have a better experience
 
